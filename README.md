@@ -21,6 +21,12 @@ Hyperion conducts static source code analysis on the code you share—either fro
   - requests
   - PyPDF2 (if you will be working with PDF files)
  
+## Compatible SenecaLLM Models
+
+- AlicanKiraz0/SenecaLLM-x-Llama3.1-8B
+- AlicanKiraz0/Seneca-x-DeepSeek-R1-Distill-Qwen-32B-v1.3-Safe
+
+ 
 ## PoC
 
 <img src="https://github.com/alicankiraz1/Hyperion-SAST-Ai.Agent/blob/main/Hyperion-PoC.gif" width="512" height="384">
