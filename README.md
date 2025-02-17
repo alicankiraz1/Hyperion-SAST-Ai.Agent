@@ -26,6 +26,12 @@ Hyperion conducts static source code analysis on the code you share—either fro
 - AlicanKiraz0/SenecaLLM-x-Llama3.1-8B
 - AlicanKiraz0/Seneca-x-DeepSeek-R1-Distill-Qwen-32B-v1.3-Safe
 
+
+## Usage Note:
+
+You can provide URL links containing raw content in web crawls. 
+
+- (For example: https://raw.githubusercontent.com/alicankiraz1/Hyperion-SAST-Ai.Agent/refs/heads/main/Hyperion.py)
  
 ## PoC
 
